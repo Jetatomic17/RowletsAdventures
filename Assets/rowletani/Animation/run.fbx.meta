@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: cf457731c1ea4cd4f8b64c722e48dc61
+timeCreated: 1527324036
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Beak
+    100002: body
+    100004: eye_L
+    100006: eye_R
+    100008: footL
+    100010: footR
+    100012: Geo
+    100014: Head
+    100016: Hips
+    100018: Joints
+    100020: LClaw11
+    100022: LClaw12
+    100024: LClaw21
+    100026: LClaw22
+    100028: LClaw31
+    100030: LClaw32
+    100032: LFinger1
+    100034: LFinger2
+    100036: LFinger3
+    100038: LFoot
+    100040: LHand
+    100042: LowerTail
+    100044: LThigh
+    100046: LwingInner
+    100048: LWingOuter
+    100050: RClaw11
+    100052: RClaw12
+    100054: RClaw21
+    100056: RClaw22
+    100058: RClaw31
+    100060: RClaw32
+    100062: RFinger1
+    100064: RFinger2
+    100066: RFinger3
+    100068: RFoot
+    100070: RHand
+    100072: RThigh
+    100074: //RootNode
+    100076: RWiingInner
+    100078: RWingOuter
+    100080: Spine
+    100082: Upper
+    100084: UpperTail
+    100086: WingL
+    100088: WingR
+    400000: Beak
+    400002: body
+    400004: eye_L
+    400006: eye_R
+    400008: footL
+    400010: footR
+    400012: Geo
+    400014: Head
+    400016: Hips
+    400018: Joints
+    400020: LClaw11
+    400022: LClaw12
+    400024: LClaw21
+    400026: LClaw22
+    400028: LClaw31
+    400030: LClaw32
+    400032: LFinger1
+    400034: LFinger2
+    400036: LFinger3
+    400038: LFoot
+    400040: LHand
+    400042: LowerTail
+    400044: LThigh
+    400046: LwingInner
+    400048: LWingOuter
+    400050: RClaw11
+    400052: RClaw12
+    400054: RClaw21
+    400056: RClaw22
+    400058: RClaw31
+    400060: RClaw32
+    400062: RFinger1
+    400064: RFinger2
+    400066: RFinger3
+    400068: RFoot
+    400070: RHand
+    400072: RThigh
+    400074: //RootNode
+    400076: RWiingInner
+    400078: RWingOuter
+    400080: Spine
+    400082: Upper
+    400084: UpperTail
+    400086: WingL
+    400088: WingR
+    2100000: lambert4
+    2100002: lambert8
+    2100004: lambert6
+    2100006: lambert5
+    4300000: body
+    4300002: footL
+    4300004: WingL
+    4300006: WingR
+    4300008: footR
+    4300010: eye_L
+    4300012: eye_R
+    7400000: run
+    9500000: //RootNode
+    13700000: body
+    13700002: eye_L
+    13700004: eye_R
+    13700006: footL
+    13700008: footR
+    13700010: WingL
+    13700012: WingR
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 25
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

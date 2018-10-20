@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 46c1c8454e0159141820fc4e0aea93fd
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Beak
+    100002: body
+    100004: eye_L
+    100006: eye_R
+    100008: footL
+    100010: footR
+    100012: Geo
+    100014: Head
+    100016: Hips
+    100018: Joints
+    100020: LClaw11
+    100022: LClaw12
+    100024: LClaw21
+    100026: LClaw22
+    100028: LClaw31
+    100030: LClaw32
+    100032: LFinger1
+    100034: LFinger2
+    100036: LFinger3
+    100038: LFoot
+    100040: LHand
+    100042: LowerTail
+    100044: LThigh
+    100046: LwingInner
+    100048: LWingOuter
+    100050: MAIN_CNTRL
+    100052: RClaw11
+    100054: RClaw12
+    100056: RClaw21
+    100058: RClaw22
+    100060: RClaw31
+    100062: RClaw32
+    100064: RFinger1
+    100066: RFinger2
+    100068: RFinger3
+    100070: RFoot
+    100072: RHand
+    100074: //RootNode
+    100076: RThigh
+    100078: RWiingInner
+    100080: RWingOuter
+    100082: Spine
+    100084: Upper
+    100086: UpperTail
+    100088: WingL
+    100090: WingR
+    400000: Beak
+    400002: body
+    400004: eye_L
+    400006: eye_R
+    400008: footL
+    400010: footR
+    400012: Geo
+    400014: Head
+    400016: Hips
+    400018: Joints
+    400020: LClaw11
+    400022: LClaw12
+    400024: LClaw21
+    400026: LClaw22
+    400028: LClaw31
+    400030: LClaw32
+    400032: LFinger1
+    400034: LFinger2
+    400036: LFinger3
+    400038: LFoot
+    400040: LHand
+    400042: LowerTail
+    400044: LThigh
+    400046: LwingInner
+    400048: LWingOuter
+    400050: MAIN_CNTRL
+    400052: RClaw11
+    400054: RClaw12
+    400056: RClaw21
+    400058: RClaw22
+    400060: RClaw31
+    400062: RClaw32
+    400064: RFinger1
+    400066: RFinger2
+    400068: RFinger3
+    400070: RFoot
+    400072: RHand
+    400074: //RootNode
+    400076: RThigh
+    400078: RWiingInner
+    400080: RWingOuter
+    400082: Spine
+    400084: Upper
+    400086: UpperTail
+    400088: WingL
+    400090: WingR
+    2100000: lambert4
+    2100002: lambert8
+    2100004: lambert6
+    2100006: lambert5
+    4300000: body
+    4300002: footL
+    4300004: WingL
+    4300006: WingR
+    4300008: footR
+    4300010: eye_L
+    4300012: eye_R
+    9500000: //RootNode
+    13700000: body
+    13700002: eye_L
+    13700004: eye_R
+    13700006: footL
+    13700008: footR
+    13700010: WingL
+    13700012: WingR
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: 1f6ebed340a874881a6daf7448e33ecc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: 966905ec7b63c4ec6b5675af69d15327, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6
+    second: {fileID: 2100000, guid: 21e715e073dd84d19a71fc4de060277a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert8
+    second: {fileID: 2100000, guid: 4747adaa3bae34788805c2c1bbe275ee, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 25
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
